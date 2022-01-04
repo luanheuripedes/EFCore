@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jk49jAJ/z244Pg+CUHQ9g9Pm5yIs1xTwYzfT5U9x851sG+b1MmqQEtFKTEmn+mXbBFaBUBOWllg4f23I30ELTw==",
+  "dgSpecHash": "TCu80a1P+4v43ev4d1p6uNHKk6Ie6w2xCq2GIF7N2vErq3zbRtFrTqlN5zxvZodkQElGWUGoSMwLW3ub/vR9Yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luan\\Documents\\.NET CORE\\.NET CORE\\EFCoreDemo\\EFCoreDemo.csproj",
+  "projectFilePath": "C:\\Users\\Luan\\Documents\\.NET CORE\\.NET CORE\\Batching\\Batching.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

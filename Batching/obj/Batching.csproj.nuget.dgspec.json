@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luan\\Documents\\.NET CORE\\.NET CORE\\EFCoreDemo\\EFCoreDemo.csproj": {}
+    "C:\\Users\\Luan\\Documents\\.NET CORE\\.NET CORE\\Batching\\Batching.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luan\\Documents\\.NET CORE\\.NET CORE\\EFCoreDemo\\EFCoreDemo.csproj": {
+    "C:\\Users\\Luan\\Documents\\.NET CORE\\.NET CORE\\Batching\\Batching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luan\\Documents\\.NET CORE\\.NET CORE\\EFCoreDemo\\EFCoreDemo.csproj",
-        "projectName": "EFCoreDemo",
-        "projectPath": "C:\\Users\\Luan\\Documents\\.NET CORE\\.NET CORE\\EFCoreDemo\\EFCoreDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Luan\\Documents\\.NET CORE\\.NET CORE\\Batching\\Batching.csproj",
+        "projectName": "Batching",
+        "projectPath": "C:\\Users\\Luan\\Documents\\.NET CORE\\.NET CORE\\Batching\\Batching.csproj",
         "packagesPath": "C:\\Users\\Luan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luan\\Documents\\.NET CORE\\.NET CORE\\EFCoreDemo\\obj\\",
+        "outputPath": "C:\\Users\\Luan\\Documents\\.NET CORE\\.NET CORE\\Batching\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6,14 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "EFCoreDemo/1.0.0": {
+      "Batching/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "6.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1",
           "Microsoft.EntityFrameworkCore.Tools.DotNet": "2.0.2"
         },
         "runtime": {
-          "EFCoreDemo.dll": {}
+          "Batching.dll": {}
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -931,7 +931,7 @@
     }
   },
   "libraries": {
-    "EFCoreDemo/1.0.0": {
+    "Batching/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
