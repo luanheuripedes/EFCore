@@ -37,7 +37,7 @@ namespace Batching
             {
                 optionsBuilder.UseSqlServer(
                     @"Server=localhost;Database=EFCoreDemo;User Id=sa;Password=yourStrong(!)Password;",
-                    options => options.MaxBatchSize(2));
+                    options => options.MaxBatchSize(2)); // Define o maximo de operaçoes que vai chegar no banco por chamada
             }
         }
 
