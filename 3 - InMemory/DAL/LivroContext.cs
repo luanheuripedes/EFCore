@@ -2,6 +2,7 @@
 using JetBrains.Annotations;
 using Microsoft.EntityFrameworkCore;
 
+//Classe de configuração do EF
 namespace InMemory.DAL
 {
     public class LivroContext : DbContext
@@ -12,7 +13,7 @@ namespace InMemory.DAL
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseInMemoryDatabase("InMemoryProvider");
+            optionsBuilder.UseInMemoryDatabase("InMemoryProvider"); //O banco que vai usar é o ImMemory
         }
 
 

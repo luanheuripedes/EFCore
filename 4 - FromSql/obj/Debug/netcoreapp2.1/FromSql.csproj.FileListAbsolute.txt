@@ -1,0 +1,13 @@
+C:\Users\Luan\Documents\.NET CORE\.NET CORE\4 - FromSql\bin\Debug\netcoreapp2.1\FromSql.deps.json
+C:\Users\Luan\Documents\.NET CORE\.NET CORE\4 - FromSql\bin\Debug\netcoreapp2.1\FromSql.runtimeconfig.json
+C:\Users\Luan\Documents\.NET CORE\.NET CORE\4 - FromSql\bin\Debug\netcoreapp2.1\FromSql.runtimeconfig.dev.json
+C:\Users\Luan\Documents\.NET CORE\.NET CORE\4 - FromSql\bin\Debug\netcoreapp2.1\FromSql.dll
+C:\Users\Luan\Documents\.NET CORE\.NET CORE\4 - FromSql\bin\Debug\netcoreapp2.1\FromSql.pdb
+C:\Users\Luan\Documents\.NET CORE\.NET CORE\4 - FromSql\obj\Debug\netcoreapp2.1\FromSql.csproj.AssemblyReference.cache
+C:\Users\Luan\Documents\.NET CORE\.NET CORE\4 - FromSql\obj\Debug\netcoreapp2.1\FromSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Documents\.NET CORE\.NET CORE\4 - FromSql\obj\Debug\netcoreapp2.1\FromSql.AssemblyInfoInputs.cache
+C:\Users\Luan\Documents\.NET CORE\.NET CORE\4 - FromSql\obj\Debug\netcoreapp2.1\FromSql.AssemblyInfo.cs
+C:\Users\Luan\Documents\.NET CORE\.NET CORE\4 - FromSql\obj\Debug\netcoreapp2.1\FromSql.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Documents\.NET CORE\.NET CORE\4 - FromSql\obj\Debug\netcoreapp2.1\FromSql.dll
+C:\Users\Luan\Documents\.NET CORE\.NET CORE\4 - FromSql\obj\Debug\netcoreapp2.1\FromSql.pdb
+C:\Users\Luan\Documents\.NET CORE\.NET CORE\4 - FromSql\obj\Debug\netcoreapp2.1\FromSql.genruntimeconfig.cache

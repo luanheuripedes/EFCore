@@ -88,7 +88,7 @@ namespace FromSql
 
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {
-                optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=EFCore.Demo;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer(@"Server=localhost;Database=EFCoreDemo;User Id=sa;Password=yourStrong(!)Password;");
             }
         }
 
